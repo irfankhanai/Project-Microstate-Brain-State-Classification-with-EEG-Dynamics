@@ -1,4 +1,4 @@
-# Project-Microstate-Brain-State-Classification-with-EEG-Dynamics
+# Project-Microstate-Brain-State-Classification-with-EEG-Dynamics (Approx 4300000 datapoints)
 Project Microstate: Brain State Classification with EEG Dynamics
 Project Description: 
 This project was started with 72 raw (.edf) files. The project involved extracting and analyzing features 
@@ -36,5 +36,5 @@ o Counted the number of transitions into each microstate per second.
 o Represented the switching behavior between states. 
 Classification Target 
 • The target labels for classification (Rest and Load) were assigned based on the subject and file 
-name patterns (_1 for Rest, _2 for Load). 
+name patterns (_1 for Rest, _2 for Load) . 
 • Each subject's features were computed separately for Rest and Load conditions. 
