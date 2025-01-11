@@ -1,4 +1,4 @@
-# Project-Microstate-Brain-State-Classification-with-EEG-Dynamics (Approx 4300000 datapoints)
+# Project-Microstate-Brain-State-Classification-with-EEG-Dynamics (Approx 4,300,000 datapoints)
 Project Microstate: Brain State Classification with EEG Dynamics
 Project Description: 
 This project was started with 72 raw (.edf) files. The project involved extracting and analyzing features 
