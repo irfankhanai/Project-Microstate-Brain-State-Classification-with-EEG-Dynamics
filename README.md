@@ -6,7 +6,7 @@ from 72 .edf files, each containing EEG data for Rest and Load conditions for 36
 Data Preprocessing 
 • Input Files: loaded 72 .edf files using the pyedflib library. 
 • Iteration: A for loop iterated over all .edf files in the specified directory. 
-• Combining Data: 
+• Combining The Data: 
 o Data from each file was converted into a pandas DataFrame. 
 o Each DataFrame was appended to a list and finally concatenated into a single DataFrame 
 (final_df) containing all data from 72 files. 
