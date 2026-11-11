@@ -15,7 +15,7 @@ column for identifying individual files.
 Data manipulation: 
 After creating the dataset, I analyzed dataset with some basic EDA, then I dropped duplicates. Following 
 this I selected columns containing EEG and converted it into numpay array. The next task was to assign 4 
-different labels (A, B, C, D). I used KMeans clustering technique here, and then mapped the clusters with 
+different labels (A, B, C and D). I used KMeans clustering technique here, and then mapped the clusters with 
 these variables. Now the final form of our dataset is “new_df” and final shape of our dataset is  
 [4267195 rows x 22 columns] 
 Feature Extraction 
